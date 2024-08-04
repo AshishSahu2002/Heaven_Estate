@@ -28,16 +28,16 @@ export default function About() {
           <h1 className="text-4xl font-bold mb-4 text-center">Welcome to <span className='text-slate-500 text-4xl'>Haven</span>
           <span className='text-slate-700 text-4xl'>Estate</span></h1>
           <p className="text-lg mb-6 ">
-            We're more than just a rental platform - we're a community of like-minded individuals who believe in the power of connection and shared experiences.
+            We are more than just a rental platform  a community of like-minded individuals who believe in the power of connection and shared experiences.
           </p>
           <p className="text-lg mb-6">
             Our mission is to provide a seamless and enjoyable rental experience, whether you're a homeowner looking to rent out your property or a traveler seeking a unique place to call home.
           </p>
           <p className="text-lg mb-6">
-            We're passionate about creating a platform that fosters trust, respect, and open communication between our users. Our team is dedicated to ensuring that every interaction on our site is safe, secure, and stress-free.
+            we are passionate about creating a platform that fosters trust, respect, and open communication between our users. Our team is dedicated to ensuring that every interaction on our site is safe, secure, and stress-free.
           </p>
           <p className="text-lg mb-6">
-            From cozy apartments to spacious houses, we believe that everyone deserves a place to feel at home. That's why we're committed to providing a diverse range of listings that cater to all tastes and preferences.
+            From cozy apartments to spacious houses, we believe that everyone deserves a place to feel at home. Thats why we are committed to providing a diverse range of listings that cater to all tastes and preferences.
           </p>
           <div className="flex justify-center">
             <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out mt-8">
